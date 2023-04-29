@@ -1,5 +1,3 @@
-Hosted on 
-https://guileless-bubblegum-17e502.netlify.app/
 
 
 
