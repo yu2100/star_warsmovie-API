@@ -2,6 +2,9 @@ import React, { useEffect, useState } from 'react'
 import axios from 'axios'
 
 
+
+
+
 const Movies = () => {
     // Loading state
     const [loading, setLoading] = useState(true);
